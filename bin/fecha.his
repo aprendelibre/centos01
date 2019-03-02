@@ -1,0 +1,4 @@
+#Use:
+# bash fecha.his
+echo 'export HISTTIMEFORMAT="%d/%m/%y %T "' >> ~/.bashrc
+source ~/.bashrc

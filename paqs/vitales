@@ -1,0 +1,16 @@
+#VITALES
+#APRENDELIBRE.NET
+epel-release
+net-tools
+vim-enhanced
+git
+nmap
+wget
+shorewall
+rsync
+ntp
+bind-utils
+openvpn 
+lsof
+iftop
+mtr
